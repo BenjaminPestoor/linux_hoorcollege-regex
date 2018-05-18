@@ -1,0 +1,5 @@
+Exercise 1: [a-z]+
+Exercise 2: [1-9]+
+Exercise 3: \.
+Exersice 4: [cmf]+[a-z]+
+Exersice 5: [^b]+og
