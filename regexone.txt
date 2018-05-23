@@ -1,5 +1,16 @@
 Exercise 1: [a-z]+
-Exercise 2: [1-9]+
-Exercise 3: \.
-Exersice 4: [cmf]+[a-z]+
-Exersice 5: [^b]+og
+Exercise 1.5: [0-9]+
+Exercise 2: [a-z]\.
+Exersice 3: [cmf]+[a-z]+
+Exersice 4: [^b]+og
+Exersice 5: [A-Z][a-z]+
+Exersice 6: waz[z]+up
+Exersice 7: a{2}.+
+Exersice 8: [0-9]+ file.? found[?]
+Exersice 9: [\s]abc
+Exersice 10: ^Mission.+
+Exersice 11: ^(file.+).pdf
+Exersice 12: ([A-Za-Z]+ ([0-9]+))
+Exersice 13: ([0-9]+)x([0-9]+)
+Exersice 14: I love (cats|dogs)
+Exersice 15: .+
