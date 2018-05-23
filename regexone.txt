@@ -2,15 +2,33 @@ Exercise 1: [a-z]+
 Exercise 1.5: [0-9]+
 Exercise 2: [a-z]\.
 Exersice 3: [cmf]+[a-z]+
-Exersice 4: [^b]+og
+Exersice 4: [^b]og
 Exersice 5: [A-Z][a-z]+
 Exersice 6: waz[z]+up
 Exersice 7: a{2}.+
-Exersice 8: [0-9]+ file.? found[?]
+Exersice 8: [0-9]+ files? found[?]
 Exersice 9: [\s]abc
 Exersice 10: ^Mission.+
 Exersice 11: ^(file.+).pdf
 Exersice 12: ([A-Za-Z]+ ([0-9]+))
 Exersice 13: ([0-9]+)x([0-9]+)
 Exersice 14: I love (cats|dogs)
-Exersice 15: .+
+Exersice 15: [A-Za-z0-9!@#$%^&*_().,?/\ ]+
+
+short:
+Exercise 1: a
+Exercise 1.5: 1
+Exercise 2: \.
+Exersice 3: [cmf]
+Exersice 4: [^b]o
+Exersice 5: [ABC]
+Exersice 6: zz
+Exersice 7: aa
+Exersice 8: \d
+Exersice 9: \s
+Exersice 10: ^M
+Exersice 11: ^(f.+).p
+Exersice 12: (.+ (.+))
+Exersice 13: (.+)x(.+)
+Exersice 14: t|d
+Exersice 15: .
